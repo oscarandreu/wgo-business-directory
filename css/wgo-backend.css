@@ -1,0 +1,69 @@
+table.pbladmin {border-collapse: collapse; border-spacing: 0px;}
+table.pbladmin tr.headrow td {padding: 4px 10px; background-color: #CCCCCC; font-size: 13px; font-weight: bold; border-spacing: 0px;}
+table.pbladmin tr.datarow td {padding: 4px 10px; font-size: 12px; vertical-align: top; border-bottom: 1px dotted #CCCCCC;}
+
+table.pbladmin {border-collapse: collapse; border-spacing: 0px; width: 100%;}
+table.pbladmin tr.headrow td {padding: 4px 10px; background-color: #CCCCCC; font-size: 13px; font-weight: bold; border-spacing: 0px;}
+table.pbladmin tr.datarow td {padding: 4px 10px; font-size: 12px; vertical-align: top; border-bottom: 1px dotted #CCCCCC;}
+
+div.wrap div.rightcol {float:left; width: 25%; margin: 0 0 0 20px;}
+div.wrap div.rightcol p {padding: 0px 10px; line-height: 16px;}
+div.wrap div.rightcol li {margin-left: 30px; list-style: disc; font-weight: bold;}
+div.wrap div.rightcol form {width: 120px; float: right;}
+
+div.wrap div.rightcol div.postbox h3 {background-color: #cccccc; padding: 10px;}
+div.wrap div.rightcol div.postbox a {color: #FF6600; font-weight: bold; text-decoration: none;}
+
+div.wrap div.rightcol div.featured {border-color: #333300; color: #333300; background-color: #EFEFCC; background-image: none;}
+div.wrap div.rightcol div.featured h3 {color: #333300; background-color: #AFB101; background-image: none; border-bottom-color: #333300;}
+
+img.wgo_image_preview {max-height:100px; max-width:100px; margin: 5px;}
+img.wgo_image_preview_small {max-height:80px; max-width:80px;}
+
+.wrap form.update {width: 80%; margin: 10px auto; padding: 5px; background-color: #F0B2B2; border: 1px solid #CC0000; text-align: center;}
+.wrap form.update p {font-weight: bold; color: #CC0000;}
+
+
+/* DIRECTORIO DE EMPRESAS */
+div.num_empresas_encontradas	{
+    background-color: #F5F5F5;
+    border: 3px solid #F0F0F0;
+    float: left;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    padding: 4px 4px 4px 8px;
+    width: 46%;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+
+div.select_paginacion	{float:right;}
+div.adminListingData	{
+    background-color: #F5F5F5;
+    border: 3px solid #F0F0F0;
+    float: left;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    padding: 4px 4px 4px 8px;
+    width: 85%;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+.wgo_listing_selector {
+    background: none repeat scroll 0 0 white;
+    padding: 4px;
+    width: 49%;
+    heigth:3em !important;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+
+
+#paginas {
+    padding: 4px !important;
+	margin-top:10px;
+}
+
